@@ -16,12 +16,13 @@ body {
   margin: 20px auto;
   padding: 0 7px;
 }
-
+.bold{
+  font-weight:800;
+}
 h1 {
-  font-weight: 800;
   text-align: center;
   margin: -4px 0;
-  letter-spacing:0.15px;
+  letter-spacing: 0.15px;
 }
 
 p {
