@@ -51,6 +51,13 @@ p {
   font-size: 0.85rem;
 }
 
-.calories-info h2{
-  margin:0px;
+.calories-info{
+  display:flex;
+  justify-content:space-between;
+  align-items:flex-end;
+  
+}
+
+.calories-info h2 {
+  margin: 0;
 }
